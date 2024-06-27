@@ -1,0 +1,187 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Alejo\\aplicacionweb\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ABDEF312-583A-410D-8C69-B20541B9A0A6}|aplicacionweb\\aplicacionweb.csproj|c:\\alejo\\aplicacionweb\\aplicacionweb\\controllers\\ofertascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABDEF312-583A-410D-8C69-B20541B9A0A6}|aplicacionweb\\aplicacionweb.csproj|solutionrelative:aplicacionweb\\controllers\\ofertascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABDEF312-583A-410D-8C69-B20541B9A0A6}|aplicacionweb\\aplicacionweb.csproj|c:\\alejo\\aplicacionweb\\aplicacionweb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABDEF312-583A-410D-8C69-B20541B9A0A6}|aplicacionweb\\aplicacionweb.csproj|solutionrelative:aplicacionweb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABDEF312-583A-410D-8C69-B20541B9A0A6}|aplicacionweb\\aplicacionweb.csproj|c:\\alejo\\aplicacionweb\\aplicacionweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ABDEF312-583A-410D-8C69-B20541B9A0A6}|aplicacionweb\\aplicacionweb.csproj|solutionrelative:aplicacionweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABDEF312-583A-410D-8C69-B20541B9A0A6}|aplicacionweb\\aplicacionweb.csproj|c:\\alejo\\aplicacionweb\\aplicacionweb\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABDEF312-583A-410D-8C69-B20541B9A0A6}|aplicacionweb\\aplicacionweb.csproj|solutionrelative:aplicacionweb\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABDEF312-583A-410D-8C69-B20541B9A0A6}|aplicacionweb\\aplicacionweb.csproj|c:\\alejo\\aplicacionweb\\aplicacionweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{ABDEF312-583A-410D-8C69-B20541B9A0A6}|aplicacionweb\\aplicacionweb.csproj|solutionrelative:aplicacionweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABDEF312-583A-410D-8C69-B20541B9A0A6}|aplicacionweb\\aplicacionweb.csproj|c:\\alejo\\aplicacionweb\\aplicacionweb\\views\\ofertas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ABDEF312-583A-410D-8C69-B20541B9A0A6}|aplicacionweb\\aplicacionweb.csproj|solutionrelative:aplicacionweb\\views\\ofertas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABDEF312-583A-410D-8C69-B20541B9A0A6}|aplicacionweb\\aplicacionweb.csproj|c:\\alejo\\aplicacionweb\\aplicacionweb\\controllers\\tipoofertascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABDEF312-583A-410D-8C69-B20541B9A0A6}|aplicacionweb\\aplicacionweb.csproj|solutionrelative:aplicacionweb\\controllers\\tipoofertascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABDEF312-583A-410D-8C69-B20541B9A0A6}|aplicacionweb\\aplicacionweb.csproj|c:\\alejo\\aplicacionweb\\aplicacionweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABDEF312-583A-410D-8C69-B20541B9A0A6}|aplicacionweb\\aplicacionweb.csproj|solutionrelative:aplicacionweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABDEF312-583A-410D-8C69-B20541B9A0A6}|aplicacionweb\\aplicacionweb.csproj|c:\\alejo\\aplicacionweb\\aplicacionweb\\models\\tipooferta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABDEF312-583A-410D-8C69-B20541B9A0A6}|aplicacionweb\\aplicacionweb.csproj|solutionrelative:aplicacionweb\\models\\tipooferta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABDEF312-583A-410D-8C69-B20541B9A0A6}|aplicacionweb\\aplicacionweb.csproj|c:\\alejo\\aplicacionweb\\aplicacionweb\\models\\oferta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABDEF312-583A-410D-8C69-B20541B9A0A6}|aplicacionweb\\aplicacionweb.csproj|solutionrelative:aplicacionweb\\models\\oferta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Alejo\\aplicacionweb\\aplicacionweb\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "aplicacionweb\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Alejo\\aplicacionweb\\aplicacionweb\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "aplicacionweb\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-13T15:45:34.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Alejo\\aplicacionweb\\aplicacionweb\\Views\\Ofertas\\Index.cshtml",
+              "RelativeDocumentMoniker": "aplicacionweb\\Views\\Ofertas\\Index.cshtml",
+              "ToolTip": "C:\\Alejo\\aplicacionweb\\aplicacionweb\\Views\\Ofertas\\Index.cshtml",
+              "RelativeToolTip": "aplicacionweb\\Views\\Ofertas\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-13T15:34:44.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Alejo\\aplicacionweb\\aplicacionweb\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "aplicacionweb\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Alejo\\aplicacionweb\\aplicacionweb\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "aplicacionweb\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T14:32:01.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OfertasController.cs",
+              "DocumentMoniker": "C:\\Alejo\\aplicacionweb\\aplicacionweb\\Controllers\\OfertasController.cs",
+              "RelativeDocumentMoniker": "aplicacionweb\\Controllers\\OfertasController.cs",
+              "ToolTip": "C:\\Alejo\\aplicacionweb\\aplicacionweb\\Controllers\\OfertasController.cs",
+              "RelativeToolTip": "aplicacionweb\\Controllers\\OfertasController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T13:26:55.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Alejo\\aplicacionweb\\aplicacionweb\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "aplicacionweb\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Alejo\\aplicacionweb\\aplicacionweb\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "aplicacionweb\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T12:08:37.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Alejo\\aplicacionweb\\aplicacionweb\\appsettings.json",
+              "RelativeDocumentMoniker": "aplicacionweb\\appsettings.json",
+              "ToolTip": "C:\\Alejo\\aplicacionweb\\aplicacionweb\\appsettings.json",
+              "RelativeToolTip": "aplicacionweb\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-13T11:37:48.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TipoOfertasController.cs",
+              "DocumentMoniker": "C:\\Alejo\\aplicacionweb\\aplicacionweb\\Controllers\\TipoOfertasController.cs",
+              "RelativeDocumentMoniker": "aplicacionweb\\Controllers\\TipoOfertasController.cs",
+              "ToolTip": "C:\\Alejo\\aplicacionweb\\aplicacionweb\\Controllers\\TipoOfertasController.cs",
+              "RelativeToolTip": "aplicacionweb\\Controllers\\TipoOfertasController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T15:37:04.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Alejo\\aplicacionweb\\aplicacionweb\\Program.cs",
+              "RelativeDocumentMoniker": "aplicacionweb\\Program.cs",
+              "ToolTip": "C:\\Alejo\\aplicacionweb\\aplicacionweb\\Program.cs",
+              "RelativeToolTip": "aplicacionweb\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T12:08:25.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Oferta.cs",
+              "DocumentMoniker": "C:\\Alejo\\aplicacionweb\\aplicacionweb\\Models\\Oferta.cs",
+              "RelativeDocumentMoniker": "aplicacionweb\\Models\\Oferta.cs",
+              "ToolTip": "C:\\Alejo\\aplicacionweb\\aplicacionweb\\Models\\Oferta.cs",
+              "RelativeToolTip": "aplicacionweb\\Models\\Oferta.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T12:01:42.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TipoOferta.cs",
+              "DocumentMoniker": "C:\\Alejo\\aplicacionweb\\aplicacionweb\\Models\\TipoOferta.cs",
+              "RelativeDocumentMoniker": "aplicacionweb\\Models\\TipoOferta.cs",
+              "ToolTip": "C:\\Alejo\\aplicacionweb\\aplicacionweb\\Models\\TipoOferta.cs",
+              "RelativeToolTip": "aplicacionweb\\Models\\TipoOferta.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T12:01:23.052Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
